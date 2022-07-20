@@ -2,7 +2,7 @@
 - I’m interested in data science, analytics, sports modelling
 - I typically work using R, but would soon like to jump into learning Python
 - I’m currently working on a baseball moneyline expected value optimzation model
-- Some of my previous projects include an NCAA Tournament Prediction ML Model which placed top 25% in a Kaggle competition, as well as many workplace applications and projects.
+- Some of my previous projects include an NCAA Tournament Prediction XGBoost (Extreme Gradient Boosting Tree) Model which placed top 25% in a Kaggle competition, as well as many workplace applications and projects.
 - 📫 Connect with me on LinkedIn! -> https://www.linkedin.com/in/brendan-bell-378066166/
 
 
